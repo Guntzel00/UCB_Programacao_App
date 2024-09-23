@@ -1,0 +1,42 @@
+[
+	{
+		"author": "Albert Einstein",
+		"quote": "A vida é como andar de bicicleta. Para manter o equilíbrio, você deve continuar se movendo.",
+		"image": "https://static.todamateria.com.br/upload/al/be/albert-einstein-og.jpg?class=ogImageWide"
+	},
+	{
+		"author": "Steve Jobs",
+		"quote": "Seu trabalho vai preencher uma grande parte da sua vida, e a única maneira de estar verdadeiramente satisfeito é fazendo o que você acredita ser um ótimo trabalho.",
+		"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPvFqD-oo4WMdikaau1qoCReBs1-aJSKEKRXubxk03-5MTDjJJ"
+	},
+	{
+		"author": "Maya Angelou",
+		"quote": "Você enfrentará muitas derrotas na vida, mas nunca deixe que você mesmo seja derrotado.",
+		"image": "https://hips.hearstapps.com/hmg-prod/images/maya_angelou_photo_by_deborah_feingold_corbis_entertainment_getty_533084708.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+	},
+	{
+		"author": "Nelson Mandela",
+		"quote": "Ninguém nasce odiando o outro pela cor de sua pele, ou por sua origem, ou sua religião. Para odiar as pessoas precisam aprender, e se elas aprendem a odiar, podem ser ensinadas a amar",
+		"image": "https://cdn.brasildefato.com.br/media/4356a686f16b1afe93ddef60298f154d.jpg"
+	},
+	{
+		"author": "Mahatma Gandhi",
+		"quote": "A força não provém da capacidade física. Provém de uma vontade indomável",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIqSobKelgKGkEAThgAg7bEVrR7xxhc9KrHg&s"
+	},
+	{
+		"author": "Clarice Lispector",
+		"quote": "Liberdade é pouco. O que eu desejo ainda não tem nome.",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzwWMOq6HR_v3-IivQb4XY90-lkDLh5wa1b3SuMyCFsx2hrSoP"
+	},
+	{
+		"author": "Paulo Freire",
+		"quote": "Educação não transforma o mundo. Educação muda as pessoas. Pessoas transformam o mundo.",
+		"image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlFkAdfl6ZYzOHCwLwS_KGaegnY8Iurp5F8s5QOtlbRC5Zz8qv"
+	},
+	{
+		"author": "Ayrton Senna",
+		"quote": "Se você quer ser bem-sucedido, precisa ter dedicação total, buscar seu último limite e dar o melhor de si.",
+		"image": "https://s2-cbn.glbimg.com/QT34ZHqlh86Shi2XGCB1UhovTvU=/0x0:625x570/888x0/smart/filters:strip_icc()/estaticos.globoradio.globo.com/fotos/2024/04/4b52005f-84fc-44a0-97a5-d123306398c3.jpg"
+	}
+]
